@@ -4,3 +4,4 @@ This bash code was written to analyse aligned BAM files and it required having r
 https://console.cloud.google.com/storage/browser/gatk-best-practices;tab=objects?prefix=&forceOnObjectsSortingFiltering=false
 
 The script is meant to run on an HPC (Myriad at UCL in this case), and it runs as an array job. The array parameter file is attached).
+https://www.rc.ucl.ac.uk/docs/Clusters/Myriad/
