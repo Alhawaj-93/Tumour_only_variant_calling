@@ -1,5 +1,6 @@
 # Tumour_only_variant_calling
 Tumour-only variant calling using GATK tools, including Mutect2, Funcotator, &amp; other filtering tools on Acute Myeloid Leukaemia samples.
+
 This bash code was written to analyse aligned BAM files and it required having reference fasta and other resournces for annotation, which are available in the GATK google bucket:
 https://console.cloud.google.com/storage/browser/gatk-best-practices;tab=objects?prefix=&forceOnObjectsSortingFiltering=false
 
